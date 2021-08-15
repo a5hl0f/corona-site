@@ -1,0 +1,90 @@
+
+body{
+	background-image:url(corona1.jpg);
+	background-size: cover;
+	background-attachment: scroll;
+}
+*{
+	box-sizing: border-box;
+	font-family: arial;
+	margin:0;
+}
+div.aquib>header{
+	background-color: rgba(0,0,0,.5);
+	color:#ffffff;
+	padding: 30px;
+	line-height: 200px;
+	font-size:50px;
+	text-align: center;
+	text-transform:capitalize;
+	
+}
+
+	
+.aquib> nav li :hover {
+	display:block;
+}
+div.aquib section{
+	float:right;
+	
+	width:75%;
+	background-color:rgba(0,0,0,.5);
+	margin:0;
+	height:auto;
+}
+
+div.aquib section h1{
+	margin:0;
+	padding:10px ;
+	color:red;
+	font-size:30px;
+}	
+	
+div.aquib>section p{
+	margin:0;
+	padding:5px;
+	font-size:20px;
+	
+	color:white;
+}
+
+div.aquib>  nav{
+	margin:0;
+	
+	background-color: rgba(0,0,0,.8);
+	width:25%;
+	float:left;
+	height:843px;	
+	display:inline;
+}
+.aquib >nav ul li{
+	display:block;
+    text-decoration:none;
+	}
+
+div.aquib>  nav a{
+	color:#ffffff;
+	padding: 0 20px;
+	display: block;
+	line-height: 30px;
+	text-decoration: none;
+	border-bottom:1px solid #555;	
+}
+div.aquib>  nav a:hover{
+	background-color: #55669999;
+	color:white;
+
+}
+
+div.aquib>footer>marquee{
+	padding:20px;
+	background-color:rgb(238,130,238);
+	font-size:40px;
+	color:red;
+	text-transform:capitalize;
+	
+	
+}
+
+	
+	
